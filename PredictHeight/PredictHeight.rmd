@@ -1,0 +1,10 @@
+# Predict Your Child's Height at 18!
+This is my first attempt at Shiny to predict a child's height when grownup. 
+
+I have used the "GaltonFamilies" Dataset from the package "HistData" and 
+have created a Linear Regression Model for the Prediction.
+
+The App is available <a href = "https://what-the-data-says.shinyapps.io/predict_height_of_your_child/" targer = "_blank" > here.
+</a>
+
+Thank You!
